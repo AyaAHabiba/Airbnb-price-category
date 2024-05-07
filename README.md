@@ -10,8 +10,8 @@ The dataset provided for this competition includes the following files:
 * test.csv: This file contains the test data, which includes similar features for Airbnb listings, but without the labels indicating price categories.
 * Additional files: Depending on the competition setup, there may be additional files providing supplementary information about the listings, such as geographical data or property descriptions.
 
-** Here is the link of the dataset [Dataset](https://www.kaggle.com/competitions/cisc-873-dm-f22-a4/data) , you will click on it and then download it then use it.**
-I can not put it here because it is too large 😔 
+**Here is the link of the dataset [Dataset](https://www.kaggle.com/competitions/cisc-873-dm-f22-a4/data) , you will click on it and then download it then use it.**
+I can not put it here because it is too large 😔.
 
 ## Data Exploration
 Understanding the characteristics of the dataset is crucial for building effective predictive models. Some key aspects of data exploration include:
